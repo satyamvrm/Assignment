@@ -1,0 +1,75 @@
+.body{
+    background-color: #286090;
+}
+
+.heading1{
+    color: aliceblue;
+    text-align: center;
+    font-size: 50px;
+    margin: 20px 0px;
+    padding: 10px 5px;
+}
+
+.heading2{
+    font-family:Arial, Helvetica, sans-serif;
+    color: #286090;
+    text-align: center;
+    font-weight: bold;
+    font-size: 42px;
+    margin: 10px 0px;
+    padding: 10px 5px;
+}
+
+.signup{
+    background-color: white;
+    padding: 20px 10px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.star{
+    color: red;
+    font-size: 18px;
+}
+
+.contact{
+    margin: 12px 5px;
+}
+
+.name{
+    padding: 20px  2px;
+}
+
+.ocupation{
+    margin: 12px 5px;
+}
+
+.gender{
+    margin: 12px 5px;
+}
+
+.password{
+    margin: 12px 5px;
+}
+
+.div-gender{
+    margin: 5px 150px 10px 0px;
+}
+.submit{
+    text-align:center;
+}
+
+#passwd{
+    margin: 0px 0px 10px 0px;
+}
+
+.button{
+    border-radius: 10px;
+    background-color: red;
+    box-sizing: border-box;
+    border-color :wheat;
+    color: white;
+    margin: 15px 5px;
+    font-size: 20px;
+    padding: 10px 15px;
+}
